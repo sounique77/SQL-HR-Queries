@@ -1,5 +1,5 @@
 # SQL-HR-Queries
-Complex EER diagram of HR department
+Complex EER diagram 
 <img width="293" alt="image" src="https://user-images.githubusercontent.com/121234311/228212153-92a1a663-7240-4c15-b2cb-ccb6440419c5.png">
 
 #1) Write down sql query to show distinct cities from customers table
