@@ -4,6 +4,7 @@ Complex EER diagram
 
 #1) Write down sql query to show distinct cities from customers table
 
+
 use sql_store;
 
 select count(distinct city) from customers;
